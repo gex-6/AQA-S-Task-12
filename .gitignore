@@ -1,0 +1,20 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/target
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+*.xml
+
+.target/
+*/classes
+*/generated-sources
+*/generated-test-sources
+*/test-classes
+
+.build/
+*/reports
+*/downloads
